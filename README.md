@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there,👋🏻&fontSize=90" />
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there,%20👋🏻&fontSize=90" />
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Javascript-F7DF1D?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
