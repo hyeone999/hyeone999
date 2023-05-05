@@ -1,5 +1,5 @@
 
-<h1 align="center">안녕하세요 👋</h3>
+<h1 align="center">안녕하세요, 김현중입니다. 👋</h3>
 <br/>
 <h3 align="center">🛠 Tech 🛠</h3>
 <p align="center">
